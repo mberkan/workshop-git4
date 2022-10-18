@@ -1,1 +1,3 @@
 Plik 1
+
+Zmiana do pull requesta
